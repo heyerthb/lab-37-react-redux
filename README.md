@@ -1,1 +1,1 @@
-# lab-37-react-redux
+# lab-36-application-state
